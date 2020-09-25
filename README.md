@@ -1,4 +1,5 @@
-Hello, my actual name is Anton Shvedov, but you can call me Alan Reid. I'm a Frontend Developer, living in Moscow.
+### Hello there 👋
+My actual name is Anton Shvedov, but you can call me Alan Reid. I'm a Frontend Developer, living in Moscow.
 
 I've been around the Web for several years, first as a hobby, now struggling to turn it into a career. There have been victories and failures along the way, but all of them have given me a solid understanding that Frontend Development is my true passion.
 
