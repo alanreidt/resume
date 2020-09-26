@@ -1,16 +1,16 @@
 ### Hello there 👋
 My actual name is Anton Shvedov, but you can call me Alan Reid. I'm a Frontend Developer, living in Moscow.
 
-I've been around the Web for several years, first as a hobby, now struggling to turn it into a career. There have been victories and failures along the way, but all of them have given me a solid understanding that Frontend Development is my true passion.
+I've been around the Web for several years, first as a hobby, now struggling to turn it into a career. There have been ups and downs along the way, but all of them have given me a solid understanding that Frontend Development is my true passion.
 
-I'd even say not only Frontend, but everything that correlates to computers drives me a lot and I'm eager to gain knowledge in these fields too.
+I'd even say not only Frontend, but everything that correlates to computers drives me a lot and I'm eager to gain knowledge in these areas too.
 
 ### Why me?
 My main shinning spot among many others is that I know what I want, why I want that and how to accomplish it. I've planned my future ~10 years ahead.
 
-I'm not afraid of learning tools that will help to improve my work process, as same as different configuration processes, because I know it's part of a job, the job I like.
+I'm not afraid to learn new tools that will help me to improve my work process, as same as different configuration processes, because I know it's a part of a job, the job I like.
 
-I always look for better ways, when I'm unsatisfied with anything. For example, React's one-way state architecture simplifies a mental overhead about state flow, but it violates integrity of a component. So, I want to find a solution for that.
+I always look for better ways, when I'm unsatisfied with anything. For example, React's one-way state architecture simplifies a mental model of state flow, but, on the other hand, it violates integrity of components. It haunts me, and I'm sure sooner or later I'll find the solution.
 
 ### Skills
   - Responsive HTML/CSS
