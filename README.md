@@ -6,7 +6,11 @@ I've been around the Web for several years, first as a hobby, now struggling to 
 I'd even say not only Frontend, but everything that correlates to computers drives me a lot and I'm eager to gain knowledge in these fields too.
 
 ### Why me?
-My main shinning spot among many others is that I know what I want, why I want that and how to accomplish it.
+My main shinning spot among many others is that I know what I want, why I want that and how to accomplish it. I've planned my future ~10 years ahead.
+
+I'm not afraid of learning tools that will help to improve my work process, as same as different configuration processes, because I know it's part of a job, the job I like.
+
+I always look for better ways, when I'm unsatisfied with anything. For example, React's one-way state architecture simplifies a mental overhead about state flow, but it violates integrity of a component. So, I want to find a solution for that.
 
 ### Skills
   - Responsive HTML/CSS
