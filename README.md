@@ -1,5 +1,5 @@
-### Hello there 👋
-My actual name is Anton Shvedov, but you can call me Alan Reid. I'm a Frontend Developer, living in Moscow.
+### Who am I?
+Hello, there. My actual name is Anton Shvedov, but you can call me Alan Reid. I'm a Frontend Developer, living in Moscow.
 
 I've been around the Web for several years, first as a hobby, now struggling to turn it into a career. There have been ups and downs along the way, but all of them have given me a solid understanding that Frontend Development is my true passion.
 
@@ -12,7 +12,7 @@ I'm not afraid to learn new tools that will help me to improve my work process, 
 
 I always look for better ways, when I'm unsatisfied with anything. For example, React's one-way state architecture simplifies a mental model of state flow, but, on the other hand, it violates integrity of components. It haunts me, and I'm sure sooner or later I'll find the solution.
 
-### Skills
+### What do I know?
   - Responsive HTML/CSS
   - CSS preprocessors (LESS/SASS)
   - Javascript
