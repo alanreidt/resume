@@ -8,7 +8,7 @@ I'd even say not only Frontend, but everything that correlates to computers driv
 ### Why me?
 My main shinning spot among many others is that I know what I want, why I want that and how to accomplish it. I've planned my future ~10 years ahead.
 
-I'm not afraid to learn new tools that will help me to improve my work process, as same as different configuration processes, because I know it's a part of a job, the job I like.
+I'm not afraid to spend my time on learning new tools that will help me to improve my work process, as same as on a project's tools or structure configuration, because I know it's a part of a job, the job I like.
 
 I always look for better ways, when I'm unsatisfied with anything. For example, React's one-way state architecture simplifies a mental model of state flow, but, on the other hand, it violates integrity of components. It haunts me, and I'm sure sooner or later I'll find the solution.
 
