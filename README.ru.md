@@ -18,6 +18,17 @@
 ### Май 2019 — Май 2020
 Проходил [обучение по программе компании Fullstack Development](https://www.fullstack-development.com/front-end-education), параллельно подрабатывая. За это время я реализовал два проекта, произвел их рефакторинг и немного отредактировал их, согласно правкам по коду. Не стал заканчивать программу, так как прояснилось, что время, которое для этого потребуется (у ребят код-ревью стало затягиваться вплоть до 5 месяцев в среднем), несоизмеримо с размером последующей заработной платы.
 
+#### Проекты
+##### range-slider-component
+[![Range Slider Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=range-slider-component)](https://github.com/alanreidt/range-slider-component)
+
+The project had a lot of challenges along the way, as a result:
+- I've learned quite a bit about MVC architecture and application design principles in general — now all of that gives me understanding of what can cause troubles later on, when I build something;
+- It's taught me about the importance of automated unit tests, which has helped me to detect bugs during the refactoring and addition of new features phases;
+- It's showed me the advantages of TDD approach and has helped to get used to the thinking in that way;
+- I've practiced Javascript far and wide;
+- And, of course, many more;
+
 ## Что я знаю?
   - Responsive HTML/CSS
   - CSS preprocessors (LESS/SASS)
