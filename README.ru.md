@@ -22,12 +22,12 @@
 ##### range-slider-component
 [![Range Slider Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=range-slider-component)](https://github.com/alanreidt/range-slider-component)
 
-The project had a lot of challenges along the way, as a result:
-- I've learned quite a bit about MVC architecture and application design principles in general — now all of that gives me understanding of what can cause troubles later on, when I build something;
-- It's taught me about the importance of automated unit tests, which has helped me to detect bugs during the refactoring and addition of new features phases;
-- It's showed me the advantages of TDD approach and has helped to get used to the thinking in that way;
-- I've practiced Javascript far and wide;
-- And, of course, many more;
+Данный проект потребовал много усилий с моей стороны, в результате чего:
+- Мне удалось в достаточной степени изучить MVC, а также принципы проектирования приложений в общем — теперь эта совокупность знаний помогает мне понять, какие вещи плохи и могут повлечь за собой потенциальные проблемы в будущем;
+- Я на практическом опыте убедился в важности тестирования приложения, ведь это помогло мне обнаружить баги в коде, как после его рефакторинга, так и после добавления новой функциональности;
+- Мне стали понятны преимущества TDD подхода разработки, а также мне удалось потренировать ход мышления, требуемый для его реализации;
+- Я попрактиковался в написании Javascript кода вдоль и поперек;
+- И, конечно же, я изучил еще многое другое;
 
 ## Что я знаю?
   - Responsive HTML/CSS
