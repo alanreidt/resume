@@ -66,8 +66,9 @@
 
 ## Портфолио
 [![Range Slider Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=range-slider-component)](https://github.com/alanreidt/range-slider-component)
-[![Calendar React App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=calendar-react-app)](https://github.com/alanreidt/calendar-react-app)
-[![Chat Layout Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=chat-layout)](https://github.com/alanreidt/chat-layout)
+[![Sign In App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=sign-in-app)](https://github.com/alanreidt/sign-in-app)
+[![Traffic Signal App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=traffic-signal-app)](https://github.com/alanreidt/traffic-signal-app)
+[![Image Gallery App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=image-gallery-app)](https://github.com/alanreidt/image-gallery-app)
 
 ## Контакты
 - [Telegram](https://t.me/alanreidt)
