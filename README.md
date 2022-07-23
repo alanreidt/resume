@@ -48,21 +48,6 @@
 - Изучить основы работы SPA приложения и отработать перевод многостраничного сайта на него;
 - Закрепить изученную теорию по Svelte на практике и получить навыки перевода обычного проекта на него;
 
-## Что я знаю? (а что нет, по-честному)
-  - У меня присутствует понимание фундаментальных основ работы языка Javascript: Глубокая база (типы данных, сравнения, конвертация типов и т.п.), Lexical Environment, Execution Context, Execution Stack, Concurrency Model (Event Loop), Promises (но бывает, что путаюсь в их особенностях). Есть пробелы в знания по DOM;
-  - Имеются знания основных концепций React (State, Props, Lifecycles, Keys, etc.) и некоторых продвинутых (Reconciliation, Hooks, Context, JSX (in Depth), Handling side effects);
-  - Написал [одно приложение на Vue](https://github.com/alanreidt/traffic-signal-app) — есть понимание того, как ментально переключится на него с React;
-  - C Redux не работал, но понимаю различие между глобальным и локальным состоянием и применял Vuex ([в выше упомянутом проекте на Vue](https://github.com/alanreidt/traffic-signal-app)). А также, использовал в проекте [calendar-react-app](https://github.com/alanreidt/calendar-react-app) его более упрощенный вариант — useReducer hook;
-  - Достаточно хорошо знаю HTML и CSS: базовые вещи и особенности, а также как эти особенности исправить (но без очень глубоких знаний уровня Lea Verou). Могу запутаться при выборе подходящего семантического тега. Знаю grid и flexbox, но могут возникнуть проблемы при реализации сложной раскладки;
-  - Люблю продумывать отзывчивость (responsiveness) интерфейсов, стараюсь использовать возможности em, rem единиц измерения. Не так уж много опыта по данной части, поэтому ее реализация занимает время;
-  - Периодически использую CSS препроцессоры (LESS/SASS): знаю базовые вещи, как переиспользовать код, но без написания сложных функций и миксинов;
-  - Присутствует какой-никакой опыт написания модульных тестов, продемонстрированно в проекте utilities (https://github.com/alanreidt/utilities/blob/master/replaceValueAt/replaceValueAt.test.js);
-  - Git использую повсеместно;
-  - Application design principles
-  - MVC
-  - Object-oriented programming (OOP)
-  - Я пару лет самостоятельно изучаю Английский язык — всю информацию по разработке читаю/слушаю на английском языке. Периодически практикую разговорную речь, с ней есть небольшие проблемы, но, как мне кажется, осталось только разговориться;
-
 ## Портфолио
 [![Range Slider Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=range-slider-component)](https://github.com/alanreidt/range-slider-component)
 [![Sign In App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=sign-in-app)](https://github.com/alanreidt/sign-in-app)
@@ -70,5 +55,5 @@
 [![Image Gallery App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=image-gallery-app)](https://github.com/alanreidt/image-gallery-app)
 
 ## Контакты
-- [Telegram](https://t.me/alanreidt)
-- [Gmail](mailto:alanreidt@gmail.com)
+- [Telegram](https://t.me/antonshvedov)
+- [Gmail](mailto:shvedov.a.g@yandex.ru)
