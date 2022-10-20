@@ -25,6 +25,20 @@
 ### Стажер фронтенд-разработчик в Yandex (Февраль 2021 — Июнь 2021)
 Проходил стажировку в команде Яндекс Плюс. Моей главной задачей было написание тестовой платформы. В задачи платформы входило реализация юнит, снапшот и скриншот тестов. За это время я успел проанализировать инструменты, доступные для решения поставленных задач и выбрать наиболее подходящие. И реализовать часть функциональности с юнит и снапшот тестами. Реализацию скриншот тестов я, так же затронул, но не успел довести ее до логического завершения.
 
+### Ключевые навыки
+  - Responsive HTML/CSS
+  - CSS preprocessors (LESS/SASS)
+  - Javascript
+  - Typescript
+  - Javascript Frameworks (React, as hobby Vue and Svelte)
+  - State management (Redux)
+  - Testing
+  - Application design principles
+  - MVC
+  - Object-oriented programming (OOP)
+  - Git
+  - Figma
+
 ## Портфолио
 [![Range Slider Component project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=range-slider-component)](https://github.com/alanreidt/range-slider-component)
 [![Sign In App project card](https://github-readme-stats.vercel.app/api/pin/?username=alanreidt&repo=sign-in-app)](https://github.com/alanreidt/sign-in-app)
