@@ -28,7 +28,7 @@ One of my big tasks was the transfer of the project to the new technologies of t
 ### Intern Frontend Developer at Yandex (February 2021 — June 2021)
 Worked in the Yandex Plus team. My main task was to write a test platform. The tasks of the platform included the implementation of the unit, snapshot and screenshot of tests. During this time, I managed to analyze the tools available for solving the tasks and chose the most suitable ones. I implemented part of the functionality with unit and snapshot tests. I also touched on the implementation of the screenshot tests, but did not have time to bring it to its logical conclusion.
 
-### What do I know?
+### Skills
   - Responsive HTML/CSS
   - CSS preprocessors (LESS/SASS)
   - Javascript
